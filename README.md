@@ -1,5 +1,5 @@
 # Add-bat-files-to-context-menu
-A simple bat file to add any other bat file you want to the context menu.
+A simple bat file to add any other bat file you want, to the context menu.
 
 Here is how to use it:
 The first time you run it, it makes a folder and asks you to copy any bat file you want to add to the context menu, inside of that folder.
